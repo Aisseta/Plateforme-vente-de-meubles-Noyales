@@ -1,6 +1,8 @@
 ## Aperçu
 Le projet Noyales est un site e-commerce dédié à la vente de meubles vintage des années 80-90, mettant en avant un style rétro. Cette réalisation a été menée par une équipe de 8 personnes sur une période de deux semaines. L'équipe était structurée en deux sous-groupes distincts, l'un axé sur le développement côté backend et l'autre sur le frontend.
 
+<img width="1470" alt="Capture d’écran 2024-01-24 à 09 53 32" src="https://github.com/Aisseta/Plateforme-vente-de-meubles-Noyales/assets/85037165/974a0dc2-070c-4192-920b-ed67017ebcf5">
+
 ## Technologies Utilisées
 ### Backend
 - Node.js
@@ -33,7 +35,6 @@ Le processus de développement a suivi une structure organisationnelle efficace.
 
 ### Aperçu du projet :
 
-<img width="1470" alt="Capture d’écran 2024-01-24 à 09 53 32" src="https://github.com/Aisseta/Plateforme-vente-de-meubles-Noyales/assets/85037165/974a0dc2-070c-4192-920b-ed67017ebcf5">
 <img width="1470" alt="Capture d’écran 2024-01-24 à 09 55 03" src="https://github.com/Aisseta/Plateforme-vente-de-meubles-Noyales/assets/85037165/271ccb60-bb3f-4e91-b351-03b49efe1f4c">
 <img width="1470" alt="Capture d’écran 2024-01-24 à 09 56 24" src="https://github.com/Aisseta/Plateforme-vente-de-meubles-Noyales/assets/85037165/b16ad7aa-6605-4a16-999d-38b12bc18b0d">
 <img width="1470" alt="Capture d’écran 2024-01-24 à 09 55 47" src="https://github.com/Aisseta/Plateforme-vente-de-meubles-Noyales/assets/85037165/bf09dd8c-baec-48f4-a68d-8086c22d22d5">
